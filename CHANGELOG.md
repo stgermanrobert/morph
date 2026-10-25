@@ -13,10 +13,6 @@ First public release.
 
 ### Download
 - Downloads from YouTube and 1000+ sites through yt-dlp: MP3 with cover art and tags, M4A or MP4 video, playlists included.
-- Spotify links (tracks, albums, public playlists) using public information only:
-  - matched on YouTube by duration and official channel;
-  - Spotify tags and cover art;
-  - fills in missing cover art when a playlist is downloaded again.
 
 ### Integration
 - "Analyze" button that opens any result in Oído.

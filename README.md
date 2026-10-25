@@ -8,7 +8,7 @@
 <h3 align="center">Convert and download audio and video. Any format. Simple.</h3>
 
 <p align="center">
-  A format converter for Windows that also downloads from YouTube, Spotify links and 1000+ sites.<br>
+  A format converter for Windows that also downloads from YouTube and 1000+ sites.<br>
   Drop a file, pick a format, done. FFmpeg is built in; there is nothing to set up.
 </p>
 
@@ -43,11 +43,6 @@
 
 **Download**
 - **YouTube, SoundCloud, Vimeo and 1000+ sites** through [yt-dlp](https://github.com/yt-dlp/yt-dlp), as **MP3** with cover art and tags, **M4A** or **MP4 video**. Whole playlists work too.
-- **Spotify links** (tracks, albums and public playlists):
-  - Morph reads the link's **public** information: **no account, no login, no API key**.
-  - Each track is matched on YouTube, favoring the right duration and the official channel.
-  - Files get **Spotify's tags and cover art**.
-  - Paste the same playlist again and Morph skips what you already have and fills in any missing covers.
 
 **Built to work with [Oído](https://github.com/stgermanrobert/oido)**
 - Every finished file has an **Analyze** button that opens it in Oído, its sister app, to see the spectrogram and the **real quality**: how much YouTube trimmed off, for instance.
