@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+out/
+build_bin/
+ffdl/
+denodl/
+packaging/version_info.txt
+selftest*.txt
+notes.md
+.venv/
